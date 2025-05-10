@@ -1,1 +1,4 @@
-Learn to make simple website.
+# Simple Website
+
+Simple website for education purpose.
+
