@@ -1,3 +1,3 @@
 # Simple Website
 
-Simple website for education purpose.
+Simple website for educational purpose.
