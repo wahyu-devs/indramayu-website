@@ -1,3 +1,3 @@
-# Simple Website
+# Indramayu City Website
 
-Simple website for educational purpose.
+Responsive website representing Indramayu, a city in West Java, Indonesia, using HTML and CSS.
